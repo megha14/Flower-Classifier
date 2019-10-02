@@ -1,7 +1,7 @@
 # Flower-Classifier
 
 
-Trained an image classifier to classify different species of flowers. It is a command line application that takes in input the location of dataset, the classifier architecture (VGG, Densenet, AlexNet), and other parameters to train a classifier on flower dataset. Project done as part of Udacity's AI Programming with Python Nanodegree.
+Trained an image classifier to classify different species of flowers. It is a command line application that takes in input the location of dataset, the classifier architecture (VGG, Densenet, AlexNet), and other parameters to train a classifier on flower dataset. 
 
 ## Scripts
 
